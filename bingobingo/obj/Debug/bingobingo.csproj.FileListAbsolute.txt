@@ -1,0 +1,53 @@
+C:\Users\iSpan\Desktop\C#\assignment\bingobingo\bingobingo\bin\Debug\bingobingo.exe.config
+C:\Users\iSpan\Desktop\C#\assignment\bingobingo\bingobingo\bin\Debug\bingobingo.exe
+C:\Users\iSpan\Desktop\C#\assignment\bingobingo\bingobingo\bin\Debug\bingobingo.pdb
+C:\Users\iSpan\Desktop\C#\assignment\bingobingo\bingobingo\obj\Debug\bingobingo.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\C#\assignment\bingobingo\bingobingo\obj\Debug\bingobingo.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Desktop\C#\assignment\bingobingo\bingobingo\obj\Debug\bingobingo.Form1.resources
+C:\Users\iSpan\Desktop\C#\assignment\bingobingo\bingobingo\obj\Debug\bingobingo.Properties.Resources.resources
+C:\Users\iSpan\Desktop\C#\assignment\bingobingo\bingobingo\obj\Debug\bingobingo.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\C#\assignment\bingobingo\bingobingo\obj\Debug\bingobingo.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\C#\assignment\bingobingo\bingobingo\obj\Debug\bingobingo.exe
+C:\Users\iSpan\Desktop\C#\assignment\bingobingo\bingobingo\obj\Debug\bingobingo.pdb
+C:\Users\Admin\Desktop\full stack\C#\assignment\bingobingo\bingobingo\bin\Debug\bingobingo.exe.config
+C:\Users\Admin\Desktop\full stack\C#\assignment\bingobingo\bingobingo\bin\Debug\bingobingo.exe
+C:\Users\Admin\Desktop\full stack\C#\assignment\bingobingo\bingobingo\bin\Debug\bingobingo.pdb
+C:\Users\Admin\Desktop\full stack\C#\assignment\bingobingo\bingobingo\obj\Debug\bingobingo.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\full stack\C#\assignment\bingobingo\bingobingo\obj\Debug\bingobingo.Form1.resources
+C:\Users\Admin\Desktop\full stack\C#\assignment\bingobingo\bingobingo\obj\Debug\bingobingo.Properties.Resources.resources
+C:\Users\Admin\Desktop\full stack\C#\assignment\bingobingo\bingobingo\obj\Debug\bingobingo.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\full stack\C#\assignment\bingobingo\bingobingo\obj\Debug\bingobingo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\full stack\C#\assignment\bingobingo\bingobingo\obj\Debug\bingobingo.exe
+C:\Users\Admin\Desktop\full stack\C#\assignment\bingobingo\bingobingo\obj\Debug\bingobingo.pdb
+C:\Users\iSpan\Desktop\bingobingo\bingobingo\bin\Debug\bingobingo.exe.config
+C:\Users\iSpan\Desktop\bingobingo\bingobingo\bin\Debug\bingobingo.exe
+C:\Users\iSpan\Desktop\bingobingo\bingobingo\bin\Debug\bingobingo.pdb
+C:\Users\iSpan\Desktop\bingobingo\bingobingo\obj\Debug\bingobingo.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\bingobingo\bingobingo\obj\Debug\bingobingo.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Desktop\bingobingo\bingobingo\obj\Debug\bingobingo.Form1.resources
+C:\Users\iSpan\Desktop\bingobingo\bingobingo\obj\Debug\bingobingo.Properties.Resources.resources
+C:\Users\iSpan\Desktop\bingobingo\bingobingo\obj\Debug\bingobingo.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\bingobingo\bingobingo\obj\Debug\bingobingo.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\bingobingo\bingobingo\obj\Debug\bingobingo.exe
+C:\Users\iSpan\Desktop\bingobingo\bingobingo\obj\Debug\bingobingo.pdb
+C:\Users\Admin\Desktop\bingobingo\bingobingo\bin\Debug\bingobingo.exe.config
+C:\Users\Admin\Desktop\bingobingo\bingobingo\bin\Debug\bingobingo.exe
+C:\Users\Admin\Desktop\bingobingo\bingobingo\bin\Debug\bingobingo.pdb
+C:\Users\Admin\Desktop\bingobingo\bingobingo\obj\Debug\bingobingo.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\bingobingo\bingobingo\obj\Debug\bingobingo.Form1.resources
+C:\Users\Admin\Desktop\bingobingo\bingobingo\obj\Debug\bingobingo.Properties.Resources.resources
+C:\Users\Admin\Desktop\bingobingo\bingobingo\obj\Debug\bingobingo.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\bingobingo\bingobingo\obj\Debug\bingobingo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\bingobingo\bingobingo\obj\Debug\bingobingo.exe
+C:\Users\Admin\Desktop\bingobingo\bingobingo\obj\Debug\bingobingo.pdb
+C:\Users\iSpan\Desktop\full stack\C#\assignment\bingobingo\bingobingo\bin\Debug\bingobingo.exe.config
+C:\Users\iSpan\Desktop\full stack\C#\assignment\bingobingo\bingobingo\bin\Debug\bingobingo.exe
+C:\Users\iSpan\Desktop\full stack\C#\assignment\bingobingo\bingobingo\bin\Debug\bingobingo.pdb
+C:\Users\iSpan\Desktop\full stack\C#\assignment\bingobingo\bingobingo\obj\Debug\bingobingo.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\full stack\C#\assignment\bingobingo\bingobingo\obj\Debug\bingobingo.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Desktop\full stack\C#\assignment\bingobingo\bingobingo\obj\Debug\bingobingo.Form1.resources
+C:\Users\iSpan\Desktop\full stack\C#\assignment\bingobingo\bingobingo\obj\Debug\bingobingo.Properties.Resources.resources
+C:\Users\iSpan\Desktop\full stack\C#\assignment\bingobingo\bingobingo\obj\Debug\bingobingo.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\full stack\C#\assignment\bingobingo\bingobingo\obj\Debug\bingobingo.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\full stack\C#\assignment\bingobingo\bingobingo\obj\Debug\bingobingo.exe
+C:\Users\iSpan\Desktop\full stack\C#\assignment\bingobingo\bingobingo\obj\Debug\bingobingo.pdb
